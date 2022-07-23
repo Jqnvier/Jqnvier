@@ -8,8 +8,6 @@
 
 
 
-
-
 ```diff
 👤 >> Young developper that is currently in offensive Security.
 //////
@@ -23,18 +21,9 @@
 	<code><img height="25" src="https://img.shields.io/badge/-Atom-66595C?logo=Atom&logoColor=white&style=for-the-badge"></code>&nbsp;|
 	<code><img height="25" src="https://img.shields.io/badge/-AWS-FF9900?logo=Amazon%20AWS&logoColor=white&style=for-the-badge"></code>&nbsp;
 </p>
-
-
-
-<a href="https://haltron.cmoi">
-   <img src="https://komarev.com/ghpvc/?username=HaltronLePoisson">
-</a>
-<a href="https://haltron.cmoi">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=Accusoft&logoColor=1572B6&message=Click%20Here&color=1572B6">
-         </a>
     
 
-## 👨‍💻 Stats - Github
+## 👨‍💻 Github
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaltronLePoisson&&theme=dark&background=000000">
