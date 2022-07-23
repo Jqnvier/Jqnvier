@@ -1,7 +1,7 @@
 <img src="" alt="" style="max-width: 100%;">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F01F10&center=true&lines=Welcome+into+the+deep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F01F10&center=true&lines=Welcome+into+the+deep;Check+my+repos+retard)](https://git.io/typing-svg)
 
 
 ### 🔥 - BlazeInc. Owner
@@ -13,5 +13,3 @@
 //////
 📧 >> Jqnuary#0002
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F01F10&center=true&lines=Check+my+repos+retard)](https://git.io/typing-svg)
