@@ -34,11 +34,6 @@ Ubisoft 💖
 <a href="https://haltron.cmoi">
          <img src="https://img.shields.io/static/v1?label=Website&logo=Accusoft&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
-
-<p align="center">
-   <a href="https://haltron.cmoi">
-         <img src="https://media.discordapp.net/attachments/790712848984571905/850159226240368650/source.gif" width="78"> 
-</p>
     
 
 ## 👨‍💻 Stats - Github
