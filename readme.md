@@ -11,8 +11,6 @@
 
 
 ```diff
-Ubisoft 💖
-
 👤 >> Young developper that is currently in offensive Security.
 //////
 📧 >> Jqnuary#0002
