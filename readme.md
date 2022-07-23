@@ -13,26 +13,5 @@
 //////
 📧 >> Jqnuary#0002
 ```
-#
-<h1 align="center">TOOLS</h1>
-    
 
-## 👨‍💻 Github
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaltronLePoisson&&theme=dark&background=000000">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HaltronLePoisson&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img style="width:95%" src="https://wakatime.com/share/HaltronLePoisson/df104b6a-7038-4e88-9228-cbddc1383f97.svg"></img>
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F01F10&center=true&lines=Check+my+repos+retard)](https://git.io/typing-svg)
