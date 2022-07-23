@@ -1,7 +1,7 @@
 <img src="" alt="" style="max-width: 100%;">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F01F10&center=true&lines=Welcome+into+the+deepl;N'h%C3%A9site+pas+%C3%A0+%22checker%22+mes+repos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F01F10&center=true&lines=Welcome+into+the+deep)](https://git.io/typing-svg)
 
 
 ### 🔥 - BlazeInc. Owner
